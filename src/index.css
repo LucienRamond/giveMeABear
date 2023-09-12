@@ -1,0 +1,11 @@
+/*General setup */
+body {
+  padding: 1rem;
+}
+.app {
+  max-width: 1000px;
+  margin: auto;
+}
+p {
+  margin: 0;
+}

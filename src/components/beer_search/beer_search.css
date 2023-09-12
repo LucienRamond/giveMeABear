@@ -1,0 +1,22 @@
+.result {
+  background-color: #eeeeee;
+  margin-top: 0.5rem;
+  padding-block: 0.5rem;
+  box-shadow: 2px 2px 2px black;
+  cursor: pointer;
+
+  display: flex;
+  align-items: center;
+}
+.result:hover {
+  box-shadow: 3px 3px 3px black;
+  background-color: #e1e1e1;
+}
+.result img {
+  height: 30px;
+  padding-left: 0.5rem;
+  justify-self: center;
+}
+.result p {
+  margin: 0 0 0 0.5rem;
+}
